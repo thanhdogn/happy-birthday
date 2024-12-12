@@ -120,13 +120,14 @@ body {
   display: inline-block;
   max-width: 100%;
   height: auto;
+  width: 500px;
 }
 
 .six .hat {
   position: absolute;
   width: 80px;
-  top: -35px;
-  left: 41.5%;
+  top: -20px;
+  left: 46%;
   /* transform: scale(0.1); */
 }
 
@@ -253,7 +254,7 @@ body {
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 32%;
+    left: 42.5%;
   }
 }
 
@@ -281,7 +282,7 @@ body {
 
   .six .hat {
     width: 50px;
-    top: -20px;
+    top: -11px;
   }
 
   .wish-hbd {
